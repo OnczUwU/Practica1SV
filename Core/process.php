@@ -1,6 +1,6 @@
 <?php
 
-$hosts_aceptados = array('localhost', '127.0.0.1', '192.168.167.15');
+$hosts_aceptados = array('localhost', '127.0.0.1', '179.51.60.240');
 $metodo_aceptado = 'POST';
 $usuario_correcto = "Admin";
 $password_correcto = "Admin";
